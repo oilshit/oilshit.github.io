@@ -65,4 +65,8 @@ header {
     font-weight: bold;
     color: #FFE12B; }
 
+@media screen and (max-width: 510px) {
+  body {
+    overflow: hidden; } }
+
 /*# sourceMappingURL=main.css.map */
